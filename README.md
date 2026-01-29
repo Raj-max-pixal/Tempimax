@@ -26,6 +26,9 @@
 
   <h2>📸 Preview</h2>
   <p>Temp Converter (UI preview)</p>
+1.<img width="572" height="753" alt="image" src="https://github.com/user-attachments/assets/83858bd7-aaec-491f-a337-812648ecf7c9" />
+2.<img width="578" height="789" alt="image" src="https://github.com/user-attachments/assets/3fda2942-3570-4639-8a45-b22f05b87719" />
+
 
   <hr>
 
